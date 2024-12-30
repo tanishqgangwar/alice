@@ -60,7 +60,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQFX_koAOPDmhjOlpzg2WuNsKTMzKADhjDn9VAA5AmraE4aCvq_V4Wr5mLJfPzou71twuCveYU-JvKJ4-ukowPYzm_FSyuA2F8YlWcKd0dLYzBBBrrqyhih78GfKnKX3GK-T2rTCRH_pEX3SyuWO53FkbUKSEwgilGmdF3Zxg8G3oFgHXiE1Bypsb_i5Q4fI-Iv7_jY6nwncveozM43CzXhTlb-NYP3FbYfgwMGcoP9FcIbBOPCAwfxM3DZeEwO3Sabp069LXd4-eQxyvPBf0fDPvVc1jvXazhsoXZwXCeSfciRdVCUjq_wyUmbzCuXcvZXF756gGceoBxipgDOstYNRgu44ZQAAAAGLzAO6AA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -75,7 +75,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/dfd84c6c9e69eb9221af1-01571540cfe12bf4ba.jpg"
 
 PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
 
